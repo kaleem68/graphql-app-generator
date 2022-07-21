@@ -1,2 +1,2 @@
 # graphql-app-generator
-- App generator started for hasura
+- App generator starter for hasura
