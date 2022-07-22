@@ -1,2 +1,2 @@
 # graphql-app-generator
-- App generator starter for hasura and react using chakra UI
+- App generator starter project for hasura and react using chakra UI
